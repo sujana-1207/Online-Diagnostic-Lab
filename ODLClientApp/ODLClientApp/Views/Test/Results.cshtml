@@ -1,0 +1,29 @@
+﻿@model ODLClientApp.Models.Resultss
+
+@{
+    ViewData["Title"] = "Results";
+}
+
+<h1>Results</h1>
+
+<div>
+    <h4>Result</h4>
+    <hr />
+    <table class="table-striped table table-responsive">
+        <thead>
+            <tr>
+                <th>Test Id</th>
+                <th>User Id</th>
+                <th>Name</th>
+                <th>Diagnosis</th>
+            </tr>
+        </thead>
+        <tr>
+            <td>@ViewBag.mod.TestId</td>
+            <td>@ViewBag.mod.UserId</td>
+            <td>@ViewBag.mod.UserName</td>
+            <td>@ViewBag.mod.Result</td>
+        </tr>
+    </table>
+</div>
+

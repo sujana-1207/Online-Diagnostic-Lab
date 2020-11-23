@@ -1,0 +1,603 @@
+INFO  11:36:41 Application started. Press Ctrl+C to shut down.
+INFO  11:36:41 Application started. Press Ctrl+C to shut down.
+INFO  11:36:41 Hosting environment: Development
+INFO  11:36:41 Hosting environment: Development
+INFO  11:36:41 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  11:36:41 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+ERROR 11:36:42 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 11:36:42 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  11:36:58 Login attempt made bysujanas
+INFO  12:30:09 Application started. Press Ctrl+C to shut down.
+INFO  12:30:09 Application started. Press Ctrl+C to shut down.
+INFO  12:30:09 Hosting environment: Development
+INFO  12:30:09 Hosting environment: Development
+INFO  12:30:09 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  12:30:09 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+ERROR 12:30:12 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 12:30:12 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  12:33:30 Application started. Press Ctrl+C to shut down.
+INFO  12:33:30 Application started. Press Ctrl+C to shut down.
+INFO  12:33:30 Hosting environment: Development
+INFO  12:33:30 Hosting environment: Development
+INFO  12:33:30 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  12:33:30 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  12:34:42 Application started. Press Ctrl+C to shut down.
+INFO  12:34:42 Application started. Press Ctrl+C to shut down.
+INFO  12:34:42 Hosting environment: Development
+INFO  12:34:42 Hosting environment: Development
+INFO  12:34:42 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  12:34:42 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+ERROR 12:34:43 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 12:34:43 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  12:35:28 Login attempt made bysujanas
+ERROR 12:35:28 Login attempt failed bysujanas
+INFO  12:35:33 Login attempt made bysujana
+ERROR 12:35:33 Login attempt failed bysujana
+INFO  12:35:35 Login attempt made bysujana
+ERROR 12:35:35 Login attempt failed bysujana
+INFO  12:35:36 Login attempt made bysujana
+ERROR 12:35:36 Login attempt failed bysujana
+INFO  12:35:36 Login attempt made bysujana
+ERROR 12:35:36 Login attempt failed bysujana
+INFO  12:36:40 Application started. Press Ctrl+C to shut down.
+INFO  12:36:40 Application started. Press Ctrl+C to shut down.
+INFO  12:36:40 Hosting environment: Development
+INFO  12:36:40 Hosting environment: Development
+INFO  12:36:40 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  12:36:40 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  12:36:41 Login attempt made bysujana
+ERROR 12:36:41 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 12:36:41 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  12:36:42 Token generated forsujana
+ERROR 12:36:42 Login attempt failed bysujana
+INFO  12:36:50 Login attempt made bysujansa
+ERROR 12:36:50 Login attempt failed bysujansa
+INFO  12:45:49 Application started. Press Ctrl+C to shut down.
+INFO  12:45:49 Application started. Press Ctrl+C to shut down.
+INFO  12:45:49 Hosting environment: Development
+INFO  12:45:49 Hosting environment: Development
+INFO  12:45:49 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  12:45:49 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+ERROR 12:45:53 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 12:45:53 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  12:45:53 Login attempt made bysujansa
+ERROR 12:45:53 Login attempt failed bysujansa
+INFO  12:45:53 Login attempt made bysujana
+INFO  12:45:54 Token generated forsujana
+ERROR 12:45:54 Login attempt failed bysujana
+INFO  01:02:40 Application started. Press Ctrl+C to shut down.
+INFO  01:02:40 Application started. Press Ctrl+C to shut down.
+INFO  01:02:40 Hosting environment: Development
+INFO  01:02:40 Hosting environment: Development
+INFO  01:02:40 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  01:02:40 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+ERROR 01:02:42 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 01:02:42 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  01:06:04 Login attempt made bysujana
+INFO  01:06:04 Token generated forsujana
+ERROR 01:06:04 Login attempt failed bysujana
+INFO  01:07:16 Login attempt made bysujana
+INFO  01:07:16 Token generated forsujana
+ERROR 01:07:16 Login attempt failed bysujana
+INFO  01:07:22 Login attempt made bysujana
+ERROR 01:07:22 Login attempt failed bysujana
+INFO  04:32:17 Application started. Press Ctrl+C to shut down.
+INFO  04:32:17 Application started. Press Ctrl+C to shut down.
+INFO  04:32:17 Hosting environment: Development
+INFO  04:32:17 Hosting environment: Development
+INFO  04:32:17 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  04:32:17 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  04:32:20 Login attempt made bysujana
+INFO  04:32:21 Token generated forsujana
+ERROR 04:32:21 Login attempt failed bysujana
+INFO  04:35:21 Login attempt made bysujana
+INFO  04:35:21 Token generated forsujana
+ERROR 04:35:21 Login attempt failed bysujana
+INFO  04:35:31 Login attempt made bysujana
+INFO  04:35:31 Token generated forsujana
+ERROR 04:35:31 Login attempt failed bysujana
+INFO  04:35:57 Login attempt made bysujana
+INFO  04:35:57 Token generated forsujana
+ERROR 04:35:57 Login attempt failed bysujana
+INFO  04:38:01 Login attempt made bysujana
+INFO  04:38:01 Token generated forsujana
+ERROR 04:38:01 Login attempt failed bysujana
+INFO  04:43:51 Application started. Press Ctrl+C to shut down.
+INFO  04:43:52 Application started. Press Ctrl+C to shut down.
+INFO  04:43:52 Hosting environment: Development
+INFO  04:43:52 Hosting environment: Development
+INFO  04:43:52 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  04:43:52 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  04:43:53 Login attempt made bysujana
+INFO  04:43:54 Token generated forsujana
+ERROR 04:43:54 Login attempt failed bysujana
+ERROR 04:43:55 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 04:43:55 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  05:54:35 Application started. Press Ctrl+C to shut down.
+INFO  05:54:35 Application started. Press Ctrl+C to shut down.
+INFO  05:54:35 Hosting environment: Development
+INFO  05:54:35 Hosting environment: Development
+INFO  05:54:35 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  05:54:35 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+ERROR 05:54:39 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 05:54:39 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  05:55:29 Login attempt made bysujana
+INFO  05:55:30 Token generated forsujana
+ERROR 05:55:30 Login attempt failed bysujana
+INFO  05:59:46 Application started. Press Ctrl+C to shut down.
+INFO  05:59:46 Application started. Press Ctrl+C to shut down.
+INFO  05:59:46 Hosting environment: Development
+INFO  05:59:46 Hosting environment: Development
+INFO  05:59:46 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  05:59:46 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+ERROR 05:59:47 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 05:59:47 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  06:00:30 Login attempt made bysujana
+INFO  06:00:30 Token generated forsujana
+ERROR 06:00:30 Login attempt failed bysujana
+INFO  06:12:23 Application started. Press Ctrl+C to shut down.
+INFO  06:12:23 Application started. Press Ctrl+C to shut down.
+INFO  06:12:23 Hosting environment: Development
+INFO  06:12:23 Hosting environment: Development
+INFO  06:12:23 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  06:12:23 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+ERROR 06:12:26 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 06:12:26 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  06:13:34 Login attempt made bysujana
+INFO  06:13:34 Token generated forsujana
+ERROR 06:13:34 Login attempt failed bysujana
+INFO  10:01:06 Application started. Press Ctrl+C to shut down.
+INFO  10:01:06 Application started. Press Ctrl+C to shut down.
+INFO  10:01:06 Hosting environment: Development
+INFO  10:01:06 Hosting environment: Development
+INFO  10:01:06 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  10:01:06 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+ERROR 10:01:20 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 10:01:20 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  10:01:39 Login attempt made bysujana
+INFO  10:01:40 Token generated forsujana
+ERROR 10:01:40 Login attempt failed bysujana
+INFO  10:04:30 Application started. Press Ctrl+C to shut down.
+INFO  10:04:30 Application started. Press Ctrl+C to shut down.
+INFO  10:04:30 Hosting environment: Development
+INFO  10:04:30 Hosting environment: Development
+INFO  10:04:30 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  10:04:30 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+ERROR 10:04:31 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 10:04:31 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  10:04:59 Login attempt made bysujana
+INFO  10:05:00 Token generated forsujana
+ERROR 10:05:00 Login attempt failed bysujana
+INFO  10:13:23 Login attempt made bysujana
+INFO  10:13:23 Token generated forsujana
+ERROR 10:13:23 Login attempt failed bysujana
+INFO  10:14:34 Login attempt made bysujana
+INFO  10:14:34 Token generated forsujana
+ERROR 10:14:34 Login attempt failed bysujana
+INFO  10:16:46 Login attempt made bysujana
+INFO  10:16:46 Token generated forsujana
+ERROR 10:16:46 Login attempt failed bysujana
+INFO  10:19:44 Login attempt made bysujana
+INFO  10:19:44 Token generated forsujana
+ERROR 10:19:44 Login attempt failed bysujana
+INFO  10:24:55 Login attempt made bysujana
+INFO  10:24:55 Token generated forsujana
+ERROR 10:24:55 Login attempt failed bysujana
+INFO  10:26:39 Login attempt made bysujana
+INFO  10:26:39 Token generated forsujana
+ERROR 10:26:39 Login attempt failed bysujana
+INFO  10:29:39 Login attempt made bysujana
+INFO  10:29:39 Token generated forsujana
+ERROR 10:29:39 Login attempt failed bysujana
+INFO  10:46:26 Login attempt made bysujana
+INFO  10:46:26 Token generated forsujana
+ERROR 10:46:26 Login attempt failed bysujana
+INFO  10:48:02 Login attempt made bysujana
+INFO  10:48:02 Token generated forsujana
+ERROR 10:48:02 Login attempt failed bysujana
+INFO  10:49:34 Login attempt made bysujana
+INFO  10:49:34 Token generated forsujana
+ERROR 10:49:34 Login attempt failed bysujana
+INFO  10:52:03 Login attempt made bysujana
+INFO  10:52:03 Token generated forsujana
+ERROR 10:52:03 Login attempt failed bysujana
+INFO  02:19:01 Application started. Press Ctrl+C to shut down.
+INFO  02:19:01 Application started. Press Ctrl+C to shut down.
+INFO  02:19:01 Hosting environment: Development
+INFO  02:19:01 Hosting environment: Development
+INFO  02:19:01 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:19:01 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:19:57 Application started. Press Ctrl+C to shut down.
+INFO  02:19:57 Application started. Press Ctrl+C to shut down.
+INFO  02:19:57 Hosting environment: Development
+INFO  02:19:57 Hosting environment: Development
+INFO  02:19:57 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:19:57 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:20:46 Application started. Press Ctrl+C to shut down.
+INFO  02:20:46 Application started. Press Ctrl+C to shut down.
+INFO  02:20:46 Hosting environment: Development
+INFO  02:20:46 Hosting environment: Development
+INFO  02:20:46 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:20:46 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:21:22 Application started. Press Ctrl+C to shut down.
+INFO  02:21:22 Application started. Press Ctrl+C to shut down.
+INFO  02:21:22 Hosting environment: Development
+INFO  02:21:22 Hosting environment: Development
+INFO  02:21:22 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:21:22 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+ERROR 02:21:23 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:21:23 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  02:23:28 Application started. Press Ctrl+C to shut down.
+INFO  02:23:28 Application started. Press Ctrl+C to shut down.
+INFO  02:23:28 Hosting environment: Development
+INFO  02:23:28 Hosting environment: Development
+INFO  02:23:28 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:23:28 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+ERROR 02:23:29 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:23:29 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuthService.Controllers.LoginController.GenerateJWTToken (AuthService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  02:24:00 Application started. Press Ctrl+C to shut down.
+INFO  02:24:00 Application started. Press Ctrl+C to shut down.
+INFO  02:24:00 Hosting environment: Development
+INFO  02:24:00 Hosting environment: Development
+INFO  02:24:00 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:24:00 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:24:30 Application started. Press Ctrl+C to shut down.
+INFO  02:24:30 Application started. Press Ctrl+C to shut down.
+INFO  02:24:30 Hosting environment: Development
+INFO  02:24:30 Hosting environment: Development
+INFO  02:24:30 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:24:30 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:28:29 Application started. Press Ctrl+C to shut down.
+INFO  02:28:29 Application started. Press Ctrl+C to shut down.
+INFO  02:28:29 Hosting environment: Development
+INFO  02:28:29 Hosting environment: Development
+INFO  02:28:29 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:28:29 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:29:13 Application started. Press Ctrl+C to shut down.
+INFO  02:29:14 Application started. Press Ctrl+C to shut down.
+INFO  02:29:14 Hosting environment: Development
+INFO  02:29:14 Hosting environment: Development
+INFO  02:29:14 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:29:14 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:30:52 Application started. Press Ctrl+C to shut down.
+INFO  02:30:52 Application started. Press Ctrl+C to shut down.
+INFO  02:30:52 Hosting environment: Development
+INFO  02:30:52 Hosting environment: Development
+INFO  02:30:52 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:30:52 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:31:38 Login attempt made bysujana
+INFO  02:31:38 Token generated forsujana
+ERROR 02:31:38 Login attempt failed bysujana
+INFO  02:32:57 Application started. Press Ctrl+C to shut down.
+INFO  02:32:57 Application started. Press Ctrl+C to shut down.
+INFO  02:32:57 Hosting environment: Development
+INFO  02:32:57 Hosting environment: Development
+INFO  02:32:57 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:32:57 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:36:53 Application started. Press Ctrl+C to shut down.
+INFO  02:36:53 Application started. Press Ctrl+C to shut down.
+INFO  02:36:53 Hosting environment: Development
+INFO  02:36:53 Hosting environment: Development
+INFO  02:36:53 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:36:53 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:37:15 Login attempt made bysujana
+ERROR 02:37:17 Login attempt failed bysujana
+INFO  02:37:38 Login attempt made bysujana
+INFO  02:42:22 Application started. Press Ctrl+C to shut down.
+INFO  02:42:22 Application started. Press Ctrl+C to shut down.
+INFO  02:42:22 Hosting environment: Development
+INFO  02:42:22 Hosting environment: Development
+INFO  02:42:22 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:42:22 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:42:39 Login attempt made bysujana
+INFO  02:44:16 Token generated forsujana
+ERROR 02:44:16 Login attempt failed bysujana
+INFO  02:45:21 Application started. Press Ctrl+C to shut down.
+INFO  02:45:21 Application started. Press Ctrl+C to shut down.
+INFO  02:45:21 Hosting environment: Development
+INFO  02:45:21 Hosting environment: Development
+INFO  02:45:21 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:45:21 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:45:38 Login attempt made bytae
+INFO  02:45:43 Token generated fortae
+ERROR 02:45:43 Login attempt failed bytae
+INFO  02:53:31 Application started. Press Ctrl+C to shut down.
+INFO  02:53:31 Application started. Press Ctrl+C to shut down.
+INFO  02:53:31 Hosting environment: Development
+INFO  02:53:32 Hosting environment: Development
+INFO  02:53:32 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:53:32 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  02:53:43 Login attempt made bysujana
+INFO  02:54:14 Token generated forsujana
+ERROR 02:54:14 Login attempt failed bysujana
+INFO  05:33:48 Application started. Press Ctrl+C to shut down.
+INFO  05:33:48 Application started. Press Ctrl+C to shut down.
+INFO  05:33:48 Hosting environment: Development
+INFO  05:33:48 Hosting environment: Development
+INFO  05:33:48 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  05:33:48 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  05:33:56 Login attempt made bytae
+INFO  05:34:01 Token generated fortae
+ERROR 05:34:01 Login attempt failed bytae
+INFO  08:17:25 Application started. Press Ctrl+C to shut down.
+INFO  08:17:25 Application started. Press Ctrl+C to shut down.
+INFO  08:17:25 Hosting environment: Development
+INFO  08:17:25 Hosting environment: Development
+INFO  08:17:25 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  08:17:25 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  08:17:35 Login attempt made bysujana
+INFO  08:17:57 Token generated forsujana
+ERROR 08:17:57 Login attempt failed bysujana
+INFO  08:20:22 Login attempt made bysujana
+INFO  08:20:22 Token generated forsujana
+ERROR 08:20:22 Login attempt failed bysujana
+INFO  08:24:41 Application started. Press Ctrl+C to shut down.
+INFO  08:24:41 Application started. Press Ctrl+C to shut down.
+INFO  08:24:41 Hosting environment: Development
+INFO  08:24:41 Hosting environment: Development
+INFO  08:24:41 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  08:24:41 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  08:25:18 Login attempt made bysujana
+INFO  08:25:34 Token generated forsujana
+ERROR 08:25:34 Login attempt failed bysujana
+INFO  08:37:35 Application started. Press Ctrl+C to shut down.
+INFO  08:37:35 Application started. Press Ctrl+C to shut down.
+INFO  08:37:35 Hosting environment: Development
+INFO  08:37:35 Hosting environment: Development
+INFO  08:37:35 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  08:37:35 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  08:39:01 Login attempt made bysujana
+INFO  08:39:08 Token generated forsujana
+ERROR 08:39:08 Login attempt failed bysujana
+INFO  08:42:31 Application started. Press Ctrl+C to shut down.
+INFO  08:42:31 Application started. Press Ctrl+C to shut down.
+INFO  08:42:31 Hosting environment: Development
+INFO  08:42:31 Hosting environment: Development
+INFO  08:42:31 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  08:42:31 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  08:42:50 Login attempt made bysujana
+INFO  08:44:06 Application started. Press Ctrl+C to shut down.
+INFO  08:44:06 Application started. Press Ctrl+C to shut down.
+INFO  08:44:07 Hosting environment: Development
+INFO  08:44:07 Hosting environment: Development
+INFO  08:44:07 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  08:44:07 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  08:44:08 Login attempt made bysujana
+INFO  09:04:06 Application started. Press Ctrl+C to shut down.
+INFO  09:04:06 Application started. Press Ctrl+C to shut down.
+INFO  09:04:06 Hosting environment: Development
+INFO  09:04:06 Hosting environment: Development
+INFO  09:04:06 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  09:04:06 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  09:04:09 Login attempt made bysujana
+INFO  09:04:16 Token generated forsujana
+ERROR 09:04:16 Login attempt failed bysujana
+INFO  09:06:40 Application started. Press Ctrl+C to shut down.
+INFO  09:06:40 Application started. Press Ctrl+C to shut down.
+INFO  09:06:40 Hosting environment: Development
+INFO  09:06:40 Hosting environment: Development
+INFO  09:06:40 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  09:06:40 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  09:06:46 Login attempt made bysujana
+INFO  09:06:49 Token generated forsujana
+ERROR 09:06:49 Login attempt failed bysujana
+INFO  09:40:13 Application started. Press Ctrl+C to shut down.
+INFO  09:40:13 Application started. Press Ctrl+C to shut down.
+INFO  09:40:13 Hosting environment: Development
+INFO  09:40:13 Hosting environment: Development
+INFO  09:40:13 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  09:40:13 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  09:40:22 Login attempt made bysujana
+INFO  09:59:43 Application started. Press Ctrl+C to shut down.
+INFO  09:59:43 Application started. Press Ctrl+C to shut down.
+INFO  09:59:43 Hosting environment: Development
+INFO  09:59:43 Hosting environment: Development
+INFO  09:59:43 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  09:59:43 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  09:59:49 Login attempt made bysujana
+INFO  09:59:55 Token generated forsujana
+ERROR 09:59:55 Login attempt failed bysujana
+INFO  10:07:24 Application started. Press Ctrl+C to shut down.
+INFO  10:07:24 Application started. Press Ctrl+C to shut down.
+INFO  10:07:24 Hosting environment: Development
+INFO  10:07:24 Hosting environment: Development
+INFO  10:07:24 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  10:07:24 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  10:07:26 Login attempt made bysujana
+INFO  10:07:31 Token generated forsujana
+ERROR 10:07:31 Login attempt failed bysujana
+INFO  10:41:35 Login attempt made bytae
+INFO  10:41:35 Token generated fortae
+ERROR 10:41:35 Login attempt failed bytae
+INFO  10:46:54 Application started. Press Ctrl+C to shut down.
+INFO  10:46:54 Application started. Press Ctrl+C to shut down.
+INFO  10:46:54 Hosting environment: Development
+INFO  10:46:54 Hosting environment: Development
+INFO  10:46:54 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  10:46:54 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  10:48:58 Login attempt made bysujana
+INFO  10:49:05 Token generated forsujana
+ERROR 10:49:05 Login attempt failed bysujana
+INFO  10:53:16 Application started. Press Ctrl+C to shut down.
+INFO  10:53:16 Application started. Press Ctrl+C to shut down.
+INFO  10:53:16 Hosting environment: Development
+INFO  10:53:16 Hosting environment: Development
+INFO  10:53:16 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  10:53:16 Content root path: C:\Users\Lenovo\source\repos\AuthService\AuthService
+INFO  10:54:34 Login attempt made bysujana
+INFO  10:54:38 Token generated forsujana
+ERROR 10:54:38 Login attempt failed bysujana
+INFO  10:57:55 Login attempt made bysujana
+INFO  10:57:55 Token generated forsujana
+ERROR 10:57:55 Login attempt failed bysujana
+INFO  11:10:51 Login attempt made bysujana
+INFO  11:10:51 Token generated forsujana
+ERROR 11:10:51 Login attempt failed bysujana
