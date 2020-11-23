@@ -8982,11 +8982,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\BookTestAppointmentService\\BookTestAppointmentService.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\OnlineDiagnosticLab\\BookTestAppointmentService\\BookTestAppointmentService.csproj",
       "projectName": "BookTestAppointmentService",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\BookTestAppointmentService\\BookTestAppointmentService.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\OnlineDiagnosticLab\\BookTestAppointmentService\\BookTestAppointmentService.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\BookTestAppointmentService\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\OnlineDiagnosticLab\\BookTestAppointmentService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

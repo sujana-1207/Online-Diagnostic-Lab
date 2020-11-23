@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\BookAppointmentTest\\BookAppointmentTest.csproj": {}
+    "C:\\Users\\Lenovo\\source\\repos\\OnlineDiagnosticLab\\BookAppointmentTest\\BookAppointmentTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\BookAppointmentTest\\BookAppointmentTest.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\OnlineDiagnosticLab\\BookAppointmentTest\\BookAppointmentTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\BookAppointmentTest\\BookAppointmentTest.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\OnlineDiagnosticLab\\BookAppointmentTest\\BookAppointmentTest.csproj",
         "projectName": "BookAppointmentTest",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\BookAppointmentTest\\BookAppointmentTest.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\OnlineDiagnosticLab\\BookAppointmentTest\\BookAppointmentTest.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\BookAppointmentTest\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\OnlineDiagnosticLab\\BookAppointmentTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Lenovo\\source\\repos\\BookTestAppointmentService\\BookTestAppointmentService.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\BookTestAppointmentService\\BookTestAppointmentService.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\OnlineDiagnosticLab\\BookTestAppointmentService\\BookTestAppointmentService.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\OnlineDiagnosticLab\\BookTestAppointmentService\\BookTestAppointmentService.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\Lenovo\\source\\repos\\BookTestAppointmentService\\BookTestAppointmentService.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\OnlineDiagnosticLab\\BookTestAppointmentService\\BookTestAppointmentService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\BookTestAppointmentService\\BookTestAppointmentService.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\OnlineDiagnosticLab\\BookTestAppointmentService\\BookTestAppointmentService.csproj",
         "projectName": "BookTestAppointmentService",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\BookTestAppointmentService\\BookTestAppointmentService.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\OnlineDiagnosticLab\\BookTestAppointmentService\\BookTestAppointmentService.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\BookTestAppointmentService\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\OnlineDiagnosticLab\\BookTestAppointmentService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
