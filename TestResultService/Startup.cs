@@ -32,12 +32,6 @@ namespace TestResultService
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddCors(options =>
-            {
-                options.AddPolicy("CorsPolicy", builder => builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader().AllowCredentials().Build());
-            }
-            );
-
             services.AddTransient<ITestResult, TestResultRepository>();
             services.AddSwaggerGen(s =>
             {
