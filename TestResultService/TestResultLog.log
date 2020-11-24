@@ -382,7 +382,7 @@ System.InvalidOperationException: No authenticationScheme was specified, and the
    at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
    at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
 INFO  10:45:44 Application started. Press Ctrl+C to shut down.
-INFO  10:45:44 Application started. Press Ctrl+C to shut down.
+INFO  10:45:44 Application started. Press Ctrl+C to  shut down.
 INFO  10:45:44 Hosting environment: Development
 INFO  10:45:44 Hosting environment: Development
 INFO  10:45:45 Content root path: C:\Users\Lenovo\source\repos\TestResultService
@@ -397,3 +397,6 @@ INFO  10:47:10 Content root path: C:\Users\Lenovo\source\repos\TestResultService
 INFO  10:47:10 Content root path: C:\Users\Lenovo\source\repos\TestResultService
 INFO  10:49:23 Get TestResults by Id accessed
 INFO  10:49:32 Successfully retrieved details for Id: 3
+
+
+
